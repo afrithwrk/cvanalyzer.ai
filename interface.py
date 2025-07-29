@@ -4,7 +4,7 @@ from analysis import analyze_resume
 st.sidebar.header('Afrith')
 st.sidebar.write(':grey[Data Scientist]')
 st.sidebar.link_button('LinkedIn🔗',url='https://www.linkedin.com/in/theafrith/')
-st.sidebar.image('/Users/afrithh/Downloads/Image/WhatsApp Image 2025-01-07 at 23.30.50.jpeg')
+#st.sidebar.image('/Users/afrithh/Downloads/Image/WhatsApp Image 2025-01-07 at 23.30.50.jpeg')
 
 st.title('CV ANALYZER🎯')
 
