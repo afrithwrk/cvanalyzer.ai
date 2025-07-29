@@ -18,7 +18,7 @@ st.sidebar.markdown('Designed by Afrith')
 
 job_des = st.text_area('Copy paste the job description here',max_chars = 10000)
 
-submit = st.button('Generate ATS score')
+submit = st.button('Generate Analysis')
 
 if submit:
     with st.spinner('Getting Results....'):
